@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KoreyHermann/kh-react-portfolio/static/css/main.76b3175c.css",
+    "main.js": "/KoreyHermann/kh-react-portfolio/static/js/main.f5c51113.js",
+    "static/js/787.a2cb61a6.chunk.js": "/KoreyHermann/kh-react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/dndencountercreator.png": "/KoreyHermann/kh-react-portfolio/static/media/dndencountercreator.1e2aa5695fe3efedf198.png",
+    "static/media/KHResume.PNG": "/KoreyHermann/kh-react-portfolio/static/media/KHResume.625ba36171cc0ad43f7f.PNG",
+    "static/media/metf.jpg": "/KoreyHermann/kh-react-portfolio/static/media/metf.2315d3f85ad0d528fe9b.jpg",
+    "static/media/workdayscheduler.PNG": "/KoreyHermann/kh-react-portfolio/static/media/workdayscheduler.c02d33f841873407623b.PNG",
+    "static/media/rolliepollies.PNG": "/KoreyHermann/kh-react-portfolio/static/media/rolliepollies.0392821ddfa17a4268f2.PNG",
+    "static/media/weatherdashboard.PNG": "/KoreyHermann/kh-react-portfolio/static/media/weatherdashboard.48e6da58773721b8f00c.PNG",
+    "static/media/notetaker.PNG": "/KoreyHermann/kh-react-portfolio/static/media/notetaker.2b8212776e81dc192eae.PNG",
+    "index.html": "/KoreyHermann/kh-react-portfolio/index.html",
+    "main.76b3175c.css.map": "/KoreyHermann/kh-react-portfolio/static/css/main.76b3175c.css.map",
+    "main.f5c51113.js.map": "/KoreyHermann/kh-react-portfolio/static/js/main.f5c51113.js.map",
+    "787.a2cb61a6.chunk.js.map": "/KoreyHermann/kh-react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b3175c.css",
+    "static/js/main.f5c51113.js"
+  ]
+}
