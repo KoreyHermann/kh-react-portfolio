@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kh-react-portfolio/static/css/main.76b3175c.css",
-    "main.js": "/kh-react-portfolio/static/js/main.ed1aedb0.js",
+    "main.css": "/kh-react-portfolio/static/css/main.987a9aaa.css",
+    "main.js": "/kh-react-portfolio/static/js/main.e7c3e6de.js",
     "static/js/787.6a661f1c.chunk.js": "/kh-react-portfolio/static/js/787.6a661f1c.chunk.js",
     "static/media/dndencountercreator.png": "/kh-react-portfolio/static/media/dndencountercreator.1e2aa5695fe3efedf198.png",
     "static/media/KHResume.PNG": "/kh-react-portfolio/static/media/KHResume.625ba36171cc0ad43f7f.PNG",
@@ -11,12 +11,12 @@
     "static/media/weatherdashboard.PNG": "/kh-react-portfolio/static/media/weatherdashboard.48e6da58773721b8f00c.PNG",
     "static/media/notetaker.PNG": "/kh-react-portfolio/static/media/notetaker.2b8212776e81dc192eae.PNG",
     "index.html": "/kh-react-portfolio/index.html",
-    "main.76b3175c.css.map": "/kh-react-portfolio/static/css/main.76b3175c.css.map",
-    "main.ed1aedb0.js.map": "/kh-react-portfolio/static/js/main.ed1aedb0.js.map",
+    "main.987a9aaa.css.map": "/kh-react-portfolio/static/css/main.987a9aaa.css.map",
+    "main.e7c3e6de.js.map": "/kh-react-portfolio/static/js/main.e7c3e6de.js.map",
     "787.6a661f1c.chunk.js.map": "/kh-react-portfolio/static/js/787.6a661f1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.76b3175c.css",
-    "static/js/main.ed1aedb0.js"
+    "static/css/main.987a9aaa.css",
+    "static/js/main.e7c3e6de.js"
   ]
 }
