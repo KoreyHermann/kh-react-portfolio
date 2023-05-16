@@ -23,5 +23,5 @@ Please refer to the LICENSE in the repo
 ## Link
 ![image](https://github.com/KoreyHermann/kh-react-portfolio/assets/118943682/ee7e17e7-a29d-4fd8-81ed-d32dfe305ba6)
 
-[-add url here later-](https://koreyhermann.github.io/kh-react-portfolio/)
+(https://koreyhermann.github.io/kh-react-portfolio/)
 
